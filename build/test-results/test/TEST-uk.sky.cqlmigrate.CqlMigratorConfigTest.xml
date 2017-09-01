@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.sky.cqlmigrate.CqlMigratorConfigTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-01T07:02:24" hostname="mirek-HP-Pavilion-g6-Notebook-PC" time="0.029">
+  <properties/>
+  <testcase name="shouldThrowIllegalArgumentExceptionWhenAnyParameterPassedIntoBuilderIsNull" classname="uk.sky.cqlmigrate.CqlMigratorConfigTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

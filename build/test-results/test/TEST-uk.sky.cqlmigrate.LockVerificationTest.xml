@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.sky.cqlmigrate.LockVerificationTest" tests="2" skipped="2" failures="0" errors="0" timestamp="2017-09-01T07:03:52" hostname="mirek-HP-Pavilion-g6-Notebook-PC" time="0.0">
+  <properties/>
+  <testcase name="shouldManageContentionsForSchemaMigrate" classname="uk.sky.cqlmigrate.LockVerificationTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="shouldObtainLockToInsertRecord" classname="uk.sky.cqlmigrate.LockVerificationTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

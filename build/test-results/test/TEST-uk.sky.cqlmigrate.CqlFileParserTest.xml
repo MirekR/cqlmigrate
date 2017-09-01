@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.sky.cqlmigrate.CqlFileParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-01T07:03:52" hostname="mirek-HP-Pavilion-g6-Notebook-PC" time="0.004">
+  <properties/>
+  <testcase name="shouldCopeWithSemicolonsInStrings" classname="uk.sky.cqlmigrate.CqlFileParserTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

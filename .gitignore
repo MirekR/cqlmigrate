@@ -1,7 +1,6 @@
 classes/
-build/
-target/
 cqlmigrate.iws
+target/
 out/
 .gradle
 *.iml

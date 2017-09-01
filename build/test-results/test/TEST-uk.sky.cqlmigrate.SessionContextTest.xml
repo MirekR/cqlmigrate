@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.sky.cqlmigrate.SessionContextTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-09-01T07:02:36" hostname="mirek-HP-Pavilion-g6-Notebook-PC" time="0.011">
+  <properties/>
+  <testcase name="shouldCallClusterHealth" classname="uk.sky.cqlmigrate.SessionContextTest" time="0.011"/>
+  <testcase name="shouldCallClusterHealthOnlyOnce" classname="uk.sky.cqlmigrate.SessionContextTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

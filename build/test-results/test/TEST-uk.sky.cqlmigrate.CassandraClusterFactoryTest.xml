@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.sky.cqlmigrate.CassandraClusterFactoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-09-01T07:05:18" hostname="mirek-HP-Pavilion-g6-Notebook-PC" time="1.211">
+  <properties/>
+  <testcase name="createClusterWithNullUser" classname="uk.sky.cqlmigrate.CassandraClusterFactoryTest" time="1.197"/>
+  <testcase name="createClusterWithCredentials" classname="uk.sky.cqlmigrate.CassandraClusterFactoryTest" time="0.004"/>
+  <testcase name="createClusterWithNullCredentials" classname="uk.sky.cqlmigrate.CassandraClusterFactoryTest" time="0.002"/>
+  <testcase name="createClusterWithNullPassword" classname="uk.sky.cqlmigrate.CassandraClusterFactoryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.sky.cqlmigrate.RetryTaskTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-09-01T07:02:38" hostname="mirek-HP-Pavilion-g6-Notebook-PC" time="0.054">
+  <properties/>
+  <testcase name="shouldRetryAsManyTimesAsNecessaryUntilSuccess" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.016"/>
+  <testcase name="checksThatTimeoutIsSet" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.001"/>
+  <testcase name="shouldCompleteIfPredicateIsSuccessful" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.001"/>
+  <testcase name="shouldThrowInterruptedExceptionIfInterruptedWhileWaitingThePollingInterval" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.0"/>
+  <testcase name="shouldTimeoutIfElapsedTimeGoesBeyondConfiguredValue" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.012"/>
+  <testcase name="shouldReturnValueIfPredicateIsSuccessful" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.004"/>
+  <testcase name="shouldWaitConfiguredPollingIntervalBeforeRetrying" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.017"/>
+  <testcase name="shouldWrapCheckedExceptionsFromExecutionInRuntimeException" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.001"/>
+  <testcase name="checksThatPollingIntervalIsSet" classname="uk.sky.cqlmigrate.RetryTaskTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
